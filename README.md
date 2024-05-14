@@ -22,3 +22,13 @@ Veritabanı, kullanıcı profillerini, ilanları ve iletişim bilgilerini depola
 
 <h1><b>Projenin Tamamlanması ve Test Edilmesi:</b></h1><p>
 Proje geliştirme sürecinin ardından, platformun test edilmesi ve kullanıma hazır hale getirilmesi sağlanacaktır. Tüm işlevlerin doğru çalıştığından ve kullanıcıların beklentilerini karşıladığından emin olunacaktır.
+
+<h1><b>Screenshots</b></h1>
+
+![sc1](https://hizliresim.com/brwru16.jpeg)
+
+
+![sc2](https://hizliresim.com/4r5hhh4.jpeg)
+
+
+![sc3](https://hizliresim.com/5uhfyxp.jpeg)
