@@ -25,10 +25,10 @@ Proje geliştirme sürecinin ardından, platformun test edilmesi ve kullanıma h
 
 <h1><b>Screenshots</b></h1>
 
-![sc1](https://hizliresim.com/brwru16.jpeg)
+![sc1](https://i.hizliresim.com/brwru16.jpeg)
 
 
-![sc2](https://hizliresim.com/4r5hhh4.jpeg)
+![sc2](https://i.hizliresim.com/4r5hhh4.jpeg)
 
 
-![sc3](https://hizliresim.com/5uhfyxp.jpeg)
+![sc3](https://i.hizliresim.com/5uhfyxp.jpeg)
