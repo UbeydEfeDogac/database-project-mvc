@@ -43,4 +43,4 @@ Proje geliştirme sürecinin ardından, platformun test edilmesi ve kullanıma h
 ![sc6](https://media.discordapp.net/attachments/846481003873828864/1242603088666165268/1716330061729.png?ex=664e6fce&is=664d1e4e&hm=6700f6d402a981bc01116764868e59f44e1ef84e1e7d23b9bc858675229c63a9&=&format=webp&quality=lossless&width=1191&height=670)
 
 
-![sc7](https://media.discordapp.net/attachments/846481003873828864/1242603140843311254/1716330072993.png?ex=664e6fdb&is=664d1e5b&hm=47d45123c92746771ed6dcf5e7518ed3403654096a72d434af2e8d07fa60da0d&=&format=webp&quality=lossless&width=494&height=278)
+![sc7](https://media.discordapp.net/attachments/846481003873828864/1242603140843311254/1716330072993.png?ex=664e6fdb&is=664d1e5b&hm=47d45123c92746771ed6dcf5e7518ed3403654096a72d434af2e8d07fa60da0d&=&format=webp&quality=lossless&width=1191&height=670)
