@@ -1,0 +1,128 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #ffff00;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #ffff00;
+}
+
+.box-shadow {
+  box-shadow: 0 0.25rem 0.75rem rgba(255, 255, 0, 0.2);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+  color: #FFFFFF;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  color: #000;
+  background-color: #ffffff; /* Dark background to contrast with yellow text */
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  line-height: 60px;
+  /* Vertically center the text there */
+  background-color: #F9F9F9; /* Yellow background */
+  color: #ffffff; /* Dark text to contrast with yellow background */
+}
+
+.pb-1 {
+  margin-top: 8%;
+}
+
+.butn {
+  display: inline-block;
+  color: #FFFFFF; /* Yellow text */
+  border: 1px solid #ffff00; /* Yellow border */
+}
+
+.bg-blue {
+  background-color: #3F475F; /* Light yellow background */
+}
+
+.twt-btn {
+  border-radius: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-weight: bold;
+  background: #3388E3; /* Yellow background */
+  background-color: #3388E3; /* Yellow background */
+  color: #ffffff; /* Dark text */
+}
+
+.login {
+  background-color: #3F475F; /* Dark yellow background */
+  padding: 25px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 5px;
+  border: 1px solid #ffff00; /* Yellow border */
+  color: #FFFFFF; /* Yellow text */
+}
+
+.avatar {
+  border-radius: 30px;
+  margin-top: -65px;
+  border: 2px solid #ffff00; /* Yellow border */
+}
+
+.post-avatar {
+  border-radius: 30px;
+  border: 1px solid #ffff00; /* Yellow border */
+}
+
+.containor {
+  margin-top: 3%;
+}
+
+.trend {
+  color: #FFFFFF; /* Yellow text */
+}
+
+.col-flw {
+  width: 33%;
+}
+
+.col-interaction {
+  width: 20%;
+}
